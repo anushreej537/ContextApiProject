@@ -836,3 +836,17 @@
 
 // export {fname,lname};
 // export default App;
+
+// Props
+// import React from "react";
+// import CompA from './CompA';
+
+// const App = ()=>{
+//     let name ='anushree';
+//     return (
+//         <>
+//         <CompA name={name}/>
+//         </>
+//     )
+// }
+// export default App
